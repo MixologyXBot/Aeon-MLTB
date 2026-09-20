@@ -1,4 +1,4 @@
-FROM 5hojib/aeon:latest
+FROM mixologyxbot/aeon:latest
 
 WORKDIR /app
 RUN chmod 777 /app
